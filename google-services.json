@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327505767516",
+    "project_id": "unplug-residance",
+    "storage_bucket": "unplug-residance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327505767516:android:4a36e4790711abb33dca99",
+        "android_client_info": {
+          "package_name": "unplug.smoobu.net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327505767516-nu77oh4sbmi5hp2h3qlt076qs0qrsvnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkgi-__KUeltZoZ-KnaNDiZx2-b-i_uxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327505767516-nu77oh4sbmi5hp2h3qlt076qs0qrsvnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
